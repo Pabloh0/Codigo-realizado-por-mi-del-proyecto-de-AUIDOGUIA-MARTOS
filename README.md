@@ -166,9 +166,3 @@ La clave `news_unread` es un ejemplo de cadena parametrizada: recibe el entero `
 
 Además de las claves del módulo de noticias, participé en la definición de las claves comunes de navegación y ajustes que se usan en el resto de la aplicación.
 
----
-
-## Repositorio
-
-- **Proyecto completo:** *(enlace al repositorio principal)*
-- **Código adaptado para el profesor:** *(enlace al repositorio independiente)* — La pantalla de entrada en este repositorio muestra un cubo azul en el centro; al pulsarlo se navega a `/noticias`, permitiendo recorrer el módulo completo de forma aislada.
